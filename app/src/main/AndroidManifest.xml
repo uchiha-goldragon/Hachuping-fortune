@@ -1,0 +1,12 @@
+
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.hachuping.fortune.roulette">
+    <application android:label="하츄핑 운세 룰렛">
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+</manifest>
